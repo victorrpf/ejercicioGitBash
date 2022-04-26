@@ -1,2 +1,4 @@
 añado líneas
 añado cambios en el fichero
+añado línea 1
+añado línea 2
